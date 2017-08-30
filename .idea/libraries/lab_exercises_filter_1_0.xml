@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lab-exercises-filter-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exercises/lab-exercises-filter/target/lab-exercises-filter-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

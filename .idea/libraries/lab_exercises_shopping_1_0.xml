@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lab-exercises-shopping-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exercises/lab-exercises-shopping/target/lab-exercises-shopping-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
